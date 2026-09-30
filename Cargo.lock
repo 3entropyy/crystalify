@@ -737,6 +737,7 @@ name = "crystalify"
 version = "0.1.0"
 dependencies = [
  "crossterm",
+ "futures-util",
  "glam",
  "librespot",
  "ratatui",

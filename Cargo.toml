@@ -6,6 +6,7 @@ license = "Apache-2.0"
 
 [dependencies]
 crossterm = "0.29.0"
+futures-util = "0.3.34"
 glam = "0.33.11"
 librespot = { git = "https://github.com/librespot-org/librespot" }
 ratatui = "0.30.2"
